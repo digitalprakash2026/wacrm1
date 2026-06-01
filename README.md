@@ -73,7 +73,12 @@ API config, and production deploy — lives at
 **[wacrm.tech/docs](https://wacrm.tech/docs)**
 (source: [ArnasDon/wacrm-site](https://github.com/ArnasDon/wacrm-site)).
 
+Key internal delivery docs:
+
+- [Self-hosted Phase 1 Delivery Plan](./docs/self-host-phase-1.md)
+
 Key pages:
+
 - [Getting started](https://wacrm.tech/docs/getting-started)
 - [Supabase setup](https://wacrm.tech/docs/supabase-setup)
 - [WhatsApp setup](https://wacrm.tech/docs/whatsapp-setup)
